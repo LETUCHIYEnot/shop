@@ -1,16 +1,19 @@
-git add .
-git commit -m 'first'
-git push -u origin main
+# First comand for git
+## first comand
 
-
-
-
+```
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Qetu987/1611.git
 git push -u origin main
+```
 
+## normal comand
 
-pip install -r requements.txt
+```
+git add .
+git commit -m 'first'
+git push -u origin main
+```
